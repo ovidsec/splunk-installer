@@ -5,7 +5,7 @@
 # pip install fabric
 # fab -P <command>
 #
-# created by Tim Arneaud - O2 Networks - 2014
+# created by Tim Arneaud - 2014
 # all moral rights reserved
 #
 # This script is awesomely alpha; much functionality and efficiency 
@@ -44,7 +44,7 @@ import random
 
 
 authorized_keys = '''
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCMSBFgh2/fTTf+YHvsnJdtxan/aM8HaGe5QuV3wkwkc3y0Ql488nQ2BBXU311lrgXdbKKl4L7+x5FvOqhraHw1r1eqmDePcMx7X5d2TbNtwYymITNOcY1yTgT+8vNH9HRwmHEHU0Dek3fKbMnKnswxkx8n1Ec8P4LYiR4Q4iiE5GGq5BstiWQtap/pIWMQRU4y/8XGykBykzSCV+Bh6gi0bB1xBBowBLltEqEL7Fe3JgXJIo+vAjge86RV/xv+nSalgJdz/YRflVYCuGzpNq7FpyeGp016QpCfmNhZWArr/DE4GH7Q+hZUxEIaNFG1pPiskorH1UIM0L+GngZN8Dln
+ssh-rsa <fake key previously put here>
 '''
 
 serverclass = ('''
